@@ -3,5 +3,6 @@ A tool that can be used to go from synthetic biology descriptions to stochastic 
 
 ### Dependencies
 * [`dnaplotlib`](https://github.com/VoigtLab/dnaplotlib)
+* [`scipy/numpy/matplotlib`]
 
 
